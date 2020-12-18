@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.99
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.99
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "price": "5980.00"
+    },
+    {
+      "name": "Desktop Dell Ultra-Generate",
+      "price": "5485.20",
+      "id": 5
+    },
+    {
+      "name": "Mochila Free Fire",
+      "price": "226.90",
+      "id": 6
+    },
+    {
+      "name": "Monitor Sansung Adapt",
+      "price": "1259.90",
+      "id": 7
+    },
+    {
+      "name": "Monitor Sansung Generate",
+      "price": "1259.90",
+      "id": 8
+    },
+    {
+      "name": "Camiseta Tema - Linux",
+      "price": "79.90",
+      "id": 9
+    },
+    {
+      "name": "Display Moto G8 -Plus",
+      "price": "640.30",
+      "id": 11
+    },
+    {
+      "name": "DH externo DELL",
+      "price": "465.25",
+      "id": 12
+    },
+    {
+      "name": "Chuteira Nike - Model Prata",
+      "price": "260",
+      "id": 13
+    },
+    {
+      "name": "Monitor Sansung ",
+      "price": "1100.00",
+      "id": 16
+    },
+    {
+      "name": "Cadeira azul",
+      "price": "150.00",
+      "id": 17
+    }
+  ]
+}
